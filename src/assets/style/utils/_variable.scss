@@ -1,0 +1,16 @@
+$primary: #128b12;
+$danger:#d43030;
+$secondary: #2a82e4;
+$info: #ff9933;
+$light: #dceafb;
+$dark: #535353;
+$disabled: linear-gradient(180deg, #565656 0%, #8e8d8d);
+$table-hover: #fffbce;
+
+$breakpoints-up: (
+  'xxl': '1900px',
+  'xl': '1200px',
+  'lg': '992px',
+  'md': '768px',
+  'sm': '576px'
+);
